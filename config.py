@@ -1,6 +1,6 @@
-customhost = "employeedb.cj8azo2794kw.eu-west-1.rds.amazonaws.com" 
+customhost = "employee.cj8azo2794kw.eu-west-1.rds.amazonaws.com" 
 customuser = "admin"
 custompass = "Leeraj21"
-customdb = "employeedb"
+customdb = "employee"
 custombucket = "myrdsbucketproject"
 customregion = "eu-west-1"
